@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sheldor
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Souvik Ghosh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Souvik
+last_name: Ghosh
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: BUET
+    url: https://www.buet.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Souvik Ghosh, a motivated and research-oriented CSE undergraduate at BUET with a strong passion for machine
+learning, software development, and problem-solving. My interests lie in exploring innovative approaches to real-world
+challenges through research and leveraging machine learning techniques to build impactful solutions.
+
