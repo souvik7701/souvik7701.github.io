@@ -35,13 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a passionate researcher and software developer with a strong focus on machine learning, deep learning, and their applications in solving real-world problems. My work spans diverse domains, combining my expertise in research and software development to create impactful solutions.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        With experience in designing and implementing advanced machine learning models and software systems, I have worked on projects that integrate cutting-edge technologies with practical applications. My research interests include bioinformatics, computer vision, and multimodal learning, while my software development experience covers full-stack web development and scalable solutions.
+
+        I am deeply motivated by the potential of technology to drive innovation and make a difference in fields like healthcare, artificial intelligence, and beyond. I enjoy collaborating with interdisciplinary teams to push the boundaries of what's possible.
+
+        Feel free to reach out if you're interested in collaborating or discussing exciting ideas! 😃
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
