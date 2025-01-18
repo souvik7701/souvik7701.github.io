@@ -55,7 +55,7 @@ education:
   - area: BSc. in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology
     date_start: 2020-02-20
-    date_end: Ongoing
+    date_end: 2025-02-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
