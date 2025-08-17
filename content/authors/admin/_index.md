@@ -67,40 +67,31 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 5.0/5.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: SSC
     institution: Dhanmondi Govt. Boys' High School
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 5.0/5.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Lecturer 
+    company_name: Department of CSE. BRAC University
+    company_url: 'https://www.bracu.ac.bd/'
+    company_logo: 'assets/media/icons/Brac-logo.svg'
+    date_start: 2025-06-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Full Stack Developer
+    company_name: Apurba Technologies
+    company_url: 'https://apurba.com.bd/'
+    company_logo: 'https://apurba.com.bd/themes/images/apurba_bangladesh_logo.png'
+    date_start: 2025-03-01
+    date_end: 2020-05-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
