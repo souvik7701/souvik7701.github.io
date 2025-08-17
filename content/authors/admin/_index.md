@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Biology
+  - Computer Vision
 
 education:
   - area: BSc. in Computer Science and Engineering
@@ -82,10 +82,9 @@ work:
     date_start: 2025-06-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses Taught:
+      - CSE 321 - Operating System
+      - CSE 340 - Computer Architecture
   - position: Full Stack Developer
     company_name: Apurba Technologies
     company_url: 'https://apurba.com.bd/'
@@ -94,8 +93,8 @@ work:
     date_end: 2020-05-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Migrated backend codebase to spring-boot
+      - Worked on multiple ongoing projects to meet user requirements
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills

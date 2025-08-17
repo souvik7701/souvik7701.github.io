@@ -35,13 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a passionate researcher and software developer with a strong focus on machine learning, deep learning, and their applications in solving real-world problems. My work spans diverse domains, combining my expertise in research and software development to create impactful solutions.
+        I am Souvik Ghosh, an undergraduate researcher in Computer Science and Engineering at BUET, passionate about applying machine learning and deep learning to solve impactful problems in computational biology and beyond. My undergraduate thesis focuses on post-translational modification prediction, where I developed ResLysEmbed, a ResNet-based framework that integrates sequence data and protein language model embeddings to achieve state-of-the-art results in succinylation site prediction.
 
-        With experience in designing and implementing advanced machine learning models and software systems, I have worked on projects that integrate cutting-edge technologies with practical applications. My research interests include bioinformatics, computer vision, and multimodal learning, while my software development experience covers full-stack web development and scalable solutions.
+        Beyond bioinformatics, I have explored deepfake detection using generative models and advanced vision architectures, as well as multimodal learning for cancer prognosis prediction, combining genomic and clinical data. My broader research interests span LLMs, generative models, and multimodal AI, with a strong motivation to bridge computational methods and biological insights.
 
-        I am deeply motivated by the potential of technology to drive innovation and make a difference in fields like healthcare, artificial intelligence, and beyond. I enjoy collaborating with interdisciplinary teams to push the boundaries of what's possible.
-
-        Feel free to reach out if you're interested in collaborating or discussing exciting ideas! 😃
+        I aspire to continue advancing AI-driven solutions in healthcare and scientific discovery while collaborating across disciplines to push research frontiers. 😃
     design:
       columns: '1'
 
