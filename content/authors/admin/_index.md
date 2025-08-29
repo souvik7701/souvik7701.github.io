@@ -165,7 +165,7 @@ awards:
     icon: research
     summary: |
       Awarded the RISE Student Research Grant (BDT 49,613) for the undergraduate thesis project "Structural-Embedding Fusion for Improved Succinylated Lysine Site Prediction".  
-      The grant supported research and experiments integrating protein structural features with deep learning models.
+      The grant supported research and experiments integrating protein structural features with protein language model features.
 ---
 
 ## About Me
