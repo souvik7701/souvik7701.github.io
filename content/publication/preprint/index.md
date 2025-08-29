@@ -1,37 +1,49 @@
 ---
-title: "An example preprint / working paper"
+title: "DFCON: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- MD Sadik Hossain Shanto*
+- Mahir Labib Dihan*
+- Souvik Ghosh*
+- Riad Ahmed Anonto*
+- Hafijul Hoque Chowdhury*
+- Abir Muhtasim*
+- Rakib Ahsan*
+- MD Tanvir Hassan*
+- MD Roqunuzzaman Sojib*
+- Sheikh Azizul Hakim†
+- M. Saifur Rahman‡
+date: "2025-01-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-28T00:00:00Z"
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv Preprint"
+publication_short: "arXiv"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  This report presents our approach for the IEEE SP Cup 2025: Deepfake Face Detection in the Wild (DFWild-Cup), focusing on detecting deepfakes across diverse datasets. Our methodology employs advanced backbone models, including MaxViT, CoAtNet, and EVA-02, fine-tuned using supervised contrastive loss to enhance feature separation. These models were specifically chosen for their complementary strengths. After training, we freeze their parameters and train classification heads, combining predictions through a majority voting ensemble. The proposed system achieves a commendable accuracy of **95.83%** on the validation dataset, demonstrating robustness and generalization across diverse deepfake scenarios.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "We propose DFCON, a supervised contrastive learning and ensemble-based approach for robust deepfake detection, achieving 95.83% validation accuracy in IEEE SP Cup 2025."
 
 tags:
-- Large Language Models
+- Deepfake Detection
+- Supervised Contrastive Learning
+- Vision Transformers
+- Ensemble Learning
 
-featured: false
+featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: ArXiv
+  url: https://arxiv.org/abs/2501.16704
+url_pdf: https://arxiv.org/pdf/2501.16704v1
+url_code: 'https://github.com/your-repo-link' # replace with your repo if available
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -40,32 +52,21 @@ url_source: '#'
 url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Proposed DFCON framework combining MaxViT, CoAtNet, and EVA-02 with supervised contrastive learning.'
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
 - internal-project
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work was developed as part of the IEEE SPS Signal Processing Cup 2025 competition (DFWild-Cup).  
+We ensemble **MaxViT, CoAtNet, and EVA-02** backbones trained with **supervised contrastive loss**, applying extensive offline and online augmentation for robustness. The final ensemble achieved **state-of-the-art accuracy of 95.83%** on validation data.
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Equal contribution by the first Nine authors.  
+† Graduate Mentor · ‡ Supervisor
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
