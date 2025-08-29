@@ -3,7 +3,7 @@
 title: Souvik Ghosh
 
 # Name pronunciation (optional)
-name_pronunciation: Souvik Ghosh
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Souvik
