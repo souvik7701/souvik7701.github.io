@@ -57,7 +57,7 @@ education:
     date_start: 2020-02-20
     date_end: 2025-02-20
     summary: |
-        We developed **ResLysEmbed**, a ResNet+MLP-based hybrid model that integrates word and protein language model embeddings to predict lysine succinylation sites with superior accuracy and interpretability. It outperforms existing methods and provides biologically relevant insights through SHAP analysis. Supervised by [Prof Dr. Mohammad Saifur Rahman](https://cse.buet.ac.bd/faculty/faculty_detail/mrahman). Our work later got acccepted in Bioinformatics Advances.
+        We developed ResLysEmbed, a ResNet+MLP-based hybrid model that integrates word and protein language model embeddings to predict lysine succinylation sites with superior accuracy and interpretability. It outperforms existing methods and provides biologically relevant insights through SHAP analysis. Supervised by [Prof Dr. Mohammad Saifur Rahman](https://cse.buet.ac.bd/faculty/faculty_detail/mrahman). Our work later got acccepted in Bioinformatics Advances.
     button:
       text: 'Read Paper'
       url: 'https://doi.org/10.1093/bioadv/vbaf198'
@@ -149,22 +149,22 @@ awards:
     awarder: IEEE Signal Processing Society
     icon: ieee
     summary: |
-      Secured **1st Runner-Up** position at the **IEEE SP Cup 2025** as part of team **Straw Hats**.  
-      Presented **DFCon: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection** at **ICASSP 2025** in Hyderabad, India.
+      Secured 1st Runner-Up position at the IEEE SP Cup 2025 as part of team Straw Hats.  
+      Presented DFCon: Attention-Driven Supervised Contrastive Learning for Robust Deepfake Detection at ICASSP 2025 in Hyderabad, India.
 
   - title: Dean's List Award - BUET (x2)
     date: '2023-12-31'
     awarder: BUET
     icon: award
     summary: |
-      Achieved **Dean's List Award** twice during undergraduate studies at the **Department of Computer Science and Engineering, BUET**, in recognition of outstanding academic performance.
+      Achieved Dean's List Award twice during undergraduate studies at the Department of Computer Science and Engineering, BUET, in recognition of outstanding academic performance.
 
   - title: RISE Student Research Grant
     date: '2024-04-20'
     awarder: RISE, BUET
     icon: research
     summary: |
-      Awarded the **RISE Student Research Grant (BDT 49,613)** for the undergraduate thesis project **"Structural-Embedding Fusion for Improved Succinylated Lysine Site Prediction"**.  
+      Awarded the RISE Student Research Grant (BDT 49,613) for the undergraduate thesis project "Structural-Embedding Fusion for Improved Succinylated Lysine Site Prediction".  
       The grant supported research and experiments integrating protein structural features with deep learning models.
 ---
 
