@@ -170,5 +170,5 @@ awards:
 
 ## About Me
 
-I am Souvik Ghosh, a Lecturer in the Department of Computer Science and Engineering at BRAC University. I completed my undergraduate studies in CSE at BUET. My research interests lie in bioinformatics—particularly proteomics—along with computer vision and deep learning. I am passionate about developing innovative approaches to real-world challenges by combining computational methods and machine learning to create impactful solutions.
+I am Souvik Ghosh, a Lecturer in the Department of Computer Science and Engineering at BRAC University. I completed my undergraduate studies in CSE at BUET. My research interests lie in bioinformatics, particularly proteomics—along with computer vision and deep learning. I am passionate about developing innovative approaches to real-world challenges by combining computational methods and machine learning to create impactful solutions.
 
