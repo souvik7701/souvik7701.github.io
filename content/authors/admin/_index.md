@@ -57,10 +57,10 @@ education:
     date_start: 2020-02-20
     date_end: 2025-02-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+        We developed **ResLysEmbed**, a ResNet+MLP-based hybrid model that integrates word and protein language model embeddings to predict lysine succinylation sites with superior accuracy and interpretability. It outperforms existing methods and provides biologically relevant insights through SHAP analysis. Supervised by [Prof Dr. Mohammad Saifur Rahman](https://cse.buet.ac.bd/faculty/faculty_detail/mrahman). Our work later got acccepted in Bioinformatics Advances.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Paper'
+      url: 'https://doi.org/10.1093/bioadv/vbaf198'
   - area: HSC
     institution: Dhaka College
     date_start: 2016-01-01
