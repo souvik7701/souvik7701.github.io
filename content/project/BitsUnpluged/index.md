@@ -1,8 +1,9 @@
 ---
 title: "Bits Unplugged | Interactive CSLearningPlatform"
-date: 2023-10-26
+date: 2024-05-15
 external_link: https://github.com/Sheldor7701/bitsunplugged
 tags:
+  - PERN Stack
   - Docker
   - GitHub Actions
   - Tailwind CSS
