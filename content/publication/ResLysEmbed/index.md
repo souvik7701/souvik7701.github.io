@@ -44,7 +44,7 @@ url_source: ""
 url_video: ""
 
 image:
-  caption: 'Architecture of ResLysEmbed combining word embeddings and ProtT5 features.'
+  caption: 'How Succinylation works'
   focal_point: "center"
   preview_only: false
 
