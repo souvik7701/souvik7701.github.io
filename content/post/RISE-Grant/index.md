@@ -26,4 +26,3 @@ This funding will support the research, development, and experiments necessary t
 
 Special thanks to my supervisor and everyone who supported me in this journey! 🙌
 
-![Award Letter](b4b531fb-ddee-4bbe-8ea4-c587913b9f49.png)
