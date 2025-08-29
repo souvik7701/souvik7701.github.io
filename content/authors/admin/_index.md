@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: BUET
-    url: https://www.buet.ac.bd/
+  - name: BRAC University
+    url: https://www.bracu.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -95,8 +95,7 @@ work:
       Responsibilities include:
       - Migrated backend codebase to spring-boot
       - Worked on multiple ongoing projects to meet user requirements
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -173,7 +172,5 @@ awards:
 
 ## About Me
 
-I am Souvik Ghosh, a motivated and research-oriented CSE undergraduate at BUET with a strong passion for machine
-learning, software development, and problem-solving. My interests lie in exploring innovative approaches to real-world
-challenges through research and leveraging machine learning techniques to build impactful solutions.
+I am Souvik Ghosh, a Lecturer in the Department of Computer Science and Engineering at BRAC University. I completed my undergraduate studies in CSE at BUET. My research interests lie in bioinformatics—particularly proteomics—along with computer vision and deep learning. I am passionate about developing innovative approaches to real-world challenges by combining computational methods and machine learning to create impactful solutions.
 

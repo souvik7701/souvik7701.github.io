@@ -1,75 +1,62 @@
 ---
-title: "An example journal article"
+title: "ResLysEmbed: A ResNet-Based Framework for Succinylated Lysine Residue Prediction Using Sequence and Language Model Embeddings"
 authors:
 - admin
-- Robert Ford
+- Md Muhaiminul Islam Nafi
+- M Saifur Rahman
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2025-01-01T00:00:00Z"
+doi: "10.1093/bioadv/vbaf198"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-15T00:00:00Z"
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Bioinformatics Advances*"
+publication_short: "*Bioinform Adv*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  Lysine (K) succinylation is a crucial post-translational modification linked to diverse biological processes and diseases. Current computational methods remain limited in predictive power and interpretability. We present **ResLysEmbed**, a novel hybrid ResNet-based framework that integrates traditional word embeddings with protein language model embeddings (ProtT5) for succinylation site prediction. ResLysEmbed consistently outperforms existing methods, achieving accuracy, MCC, and F1-scores of 0.81/0.39/0.40 and 0.72/0.44/0.67 on two independent test sets, respectively. Comparative evaluations against other PLMs (PTM-Mamba, ESM-650M, ESM-3B) demonstrate ProtT5 as the most effective embedding choice. Furthermore, SHAP-based interpretability analysis reveals biologically meaningful insights into residue contributions within a 33-mer sequence window, reaffirming the biological relevance of our predictions. ResLysEmbed thus establishes itself as a robust and computationally efficient framework for lysine succinylation prediction.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: |
+  We developed **ResLysEmbed**, a ResNet+MLP-based hybrid model that integrates word and protein language model embeddings to predict lysine succinylation sites with superior accuracy and interpretability. It outperforms existing methods and provides biologically relevant insights through SHAP analysis.
 
 tags:
-- Source Themes
-featured: false
+- Bioinformatics
+- Proteomics
+- Protein Language Models
+- Post-translational Modifications
+- Machine Learning
+featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf198/8239949"
+url_code: "https://github.com/Sheldor7701/ResLysEmbed"
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Architecture of ResLysEmbed combining word embeddings and ProtT5 features.'
+  focal_point: "center"
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to import this publication into your reference manager.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+This work introduces a new hybrid ResNet-based model for succinylation prediction, integrates multiple PLM embeddings, and applies SHAP analysis for biological interpretability.
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
