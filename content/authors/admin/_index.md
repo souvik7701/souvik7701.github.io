@@ -20,16 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: BRAC University
-    url: https://www.bracu.ac.bd/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: at-symbol
+    url: 'mailto:souvik.ghosh@vanderbilt.edu'
+    label: Vanderbilt E-mail
   - icon: at-symbol
     url: 'mailto:souvik7701@gmail.com'
     label: E-mail Me
@@ -52,6 +55,12 @@ interests:
   - Structural bioinformatics
 
 education:
+  - area: PhD in Computer Science
+    institution: Vanderbilt University
+    date_start: '2026-08-15'
+    date_end: ''
+    summary: |
+      Pursuing PhD in Computer Science. Working as a Graduate Research Assistant.
   - area: BSc. in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology
     date_start: 2020-02-20
@@ -75,12 +84,21 @@ education:
       GPA: 5.0/5.0
 
 work:
+  - position: Graduate Research Assistant
+    company_name: Vanderbilt University
+    company_url: 'https://www.vanderbilt.edu/'
+    company_logo: ''
+    date_start: '2026-08-15'
+    date_end: ''
+    summary: |
+      Department of Computer Science
+      - Conducting research in machine learning and computer science.
   - position: Lecturer 
-    company_name: Department of CSE. BRAC University
+    company_name: Department of CSE, BRAC University
     company_url: 'https://www.bracu.ac.bd/'
     company_logo: 'assets/media/icons/Brac-logo.svg'
     date_start: 2025-06-01
-    date_end: ''
+    date_end: '2026-07-31'
     summary: |2-
       Courses Taught:
       - CSE 321 - Operating System
@@ -170,5 +188,5 @@ awards:
 
 ## About Me
 
-I am Souvik Ghosh, a prospective graduate student for Fall 2026, with a strong background in computer science and engineering. I currently serve as a Lecturer in the Department of Computer Science and Engineering at BRAC University and completed my undergraduate studies in CSE at BUET. My research interests span bioinformatics—particularly proteomics and structural bioinformatics. I am driven by the pursuit of developing novel computational and machine learning approaches to address complex biological and real-world problems, aiming to contribute to both scientific knowledge and practical applications.
+I am Souvik Ghosh, a PhD student in Computer Science at Vanderbilt University, where I also work as a Graduate Research Assistant. Previously, I served as a Lecturer in the Department of Computer Science and Engineering at BRAC University and completed my undergraduate studies in CSE at BUET. My research interests span bioinformatics—particularly proteomics and structural bioinformatics—as well as machine learning and multimodal AI. I am driven by the pursuit of developing novel computational and machine learning approaches to address complex biological and real-world problems, aiming to contribute to both scientific knowledge and practical applications.
 

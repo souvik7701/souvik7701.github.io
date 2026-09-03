@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am Souvik Ghosh, a Lecturer in the Department of Computer Science and Engineering at BRAC University. I completed my undergraduate studies in CSE at BUET. I am passionate about applying machine learning and deep learning to solve impactful problems in computational biology and beyond. My undergraduate thesis focuses on post-translational modification prediction, where I developed ResLysEmbed, a ResNet-based framework that integrates sequence data and protein language model embeddings to achieve state-of-the-art results in succinylation site prediction.
+        I am Souvik Ghosh, a PhD student in Computer Science and Graduate Research Assistant at Vanderbilt University. I completed my undergraduate studies in CSE at BUET and previously served as a Lecturer at BRAC University. I am passionate about applying machine learning and deep learning to solve impactful problems in computational biology and beyond. My undergraduate thesis focused on post-translational modification prediction, where I developed ResLysEmbed, a ResNet-based framework that integrates sequence data and protein language model embeddings to achieve state-of-the-art results in succinylation site prediction.
 
         Beyond bioinformatics, I have explored deepfake detection using generative models and advanced vision architectures, as well as multimodal learning for cancer prognosis prediction, combining genomic and clinical data. My broader research interests span LLMs, generative models, and multimodal AI, with a strong motivation to bridge computational methods and biological insights.
 
